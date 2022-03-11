@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Navbar/Navbar";
+import Navbar from "../../Component/Navbar/Navbar";
 import styled from "styled-components";
 import { BsSearch } from "react-icons/bs";
 import hero from "../../img/hero.jpg";
